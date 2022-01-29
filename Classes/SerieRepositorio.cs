@@ -6,6 +6,7 @@ namespace DIO.cadastroSeries
 {
     public class SerieRepositorio : IRepositorio<Serie>
     {
+        private List<Serie> listaSerie = new List<Serie>();
         public void Atualiza(int id, Serie entidade)
         {
             throw new NotImplementedException();
