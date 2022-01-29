@@ -2,6 +2,6 @@ namespace DIO.cadastroSeries
 {
     public abstract class EntidadeBase
     {
-        protected int Id { get; protected set; }
+        public int Id { get; protected set; }
     }
 }
