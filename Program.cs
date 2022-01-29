@@ -49,7 +49,7 @@ namespace DIO.cadastroSeries
 		private static string ObterOpcaoUsuario()
 		{
 			Console.WriteLine();
-			Console.WriteLine("CRUD Séries C#");
+			Console.WriteLine("Bem-vindo!");
 			Console.WriteLine("Escolha uma opção:");
 
 			Console.WriteLine("1- Listar séries");
