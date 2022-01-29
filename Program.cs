@@ -46,7 +46,7 @@ namespace DIO.cadastroSeries
 			System.Environment.Exit(1);
         }
 
-        private static string ObterOpcaoUsuario()
+		private static string ObterOpcaoUsuario()
 		{
 			Console.WriteLine();
 			Console.WriteLine("CRUD Séries C#");
@@ -66,7 +66,7 @@ namespace DIO.cadastroSeries
 			return opcaoUsuario;
 		}
 
-        private static void ListarSeries()
+		private static void ListarSeries()
 		{
 			Console.WriteLine("Listar séries");
 
@@ -86,7 +86,7 @@ namespace DIO.cadastroSeries
 			}
 		}
 
-        private static void InserirSerie()
+		private static void InserirSerie()
 		{
 			Console.WriteLine("Inserir nova série");
 
@@ -115,7 +115,7 @@ namespace DIO.cadastroSeries
 			repositorio.Insere(novaSerie);
 		}
 
-        private static void AtualizarSerie()
+		private static void AtualizarSerie()
 		{
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
@@ -145,7 +145,7 @@ namespace DIO.cadastroSeries
 			repositorio.Atualiza(indiceSerie, atualizaSerie);
 		}
 
-        private static void ExcluirSerie()
+		private static void ExcluirSerie()
 		{
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
@@ -153,7 +153,7 @@ namespace DIO.cadastroSeries
 			repositorio.Exclui(indiceSerie);
 		}
 
-        private static void VisualizarSerie()
+		private static void VisualizarSerie()
 		{
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
