@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace DIO.cadastroSeries
 {
@@ -40,7 +41,9 @@ namespace DIO.cadastroSeries
 			}
 
 			Console.WriteLine("Volte sempre!");
-			Console.ReadLine();
+			//Console.ReadLine();
+			Thread.Sleep(1000);
+			System.Environment.Exit(1);
         }
 
         private static string ObterOpcaoUsuario()
@@ -77,7 +80,7 @@ namespace DIO.cadastroSeries
 
 			foreach (var serie in lista)
 			{
-                var excluido = serie.retornaExcluido();
+				var excluido = serie.retornaExcluido();
                 
 				Console.WriteLine("#ID {0}: - {1} {2}", serie.retornaId(), serie.retornaTitulo(), (excluido ? "*Excluído*" : ""));
 			}
