@@ -6,7 +6,8 @@ namespace DIO.cadastroSeries
     {
         static void Main(string[] args)
         {
-
+            EntidadeBase minhaClasse = new EntidadeBase();
+            //Erro
         }
     }
 }
