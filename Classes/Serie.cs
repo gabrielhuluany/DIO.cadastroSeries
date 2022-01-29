@@ -1,6 +1,6 @@
 namespace DIO.cadastroSeries
 {
-    public class Serie
+    public class Serie : EntidadeBase
     {
         
     }
