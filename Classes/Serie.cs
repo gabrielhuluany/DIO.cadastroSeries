@@ -38,10 +38,10 @@ namespace DIO.cadastroSeries
 			return this.Titulo;
 		}
 
-		public int retornaId()
-		{
-			return this.Id;
-		}
+        public int retornaId()
+        {
+	        return this.Id;
+        }
 
         public bool retornaExcluido()
 		{
