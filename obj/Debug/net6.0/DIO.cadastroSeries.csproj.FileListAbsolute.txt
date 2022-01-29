@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\bin\Debug\net6.0\DIO.cadastroSeries.exe
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\bin\Debug\net6.0\DIO.cadastroSeries.deps.json
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\bin\Debug\net6.0\DIO.cadastroSeries.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\bin\Debug\net6.0\DIO.cadastroSeries.dll
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\bin\Debug\net6.0\ref\DIO.cadastroSeries.dll
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\bin\Debug\net6.0\DIO.cadastroSeries.pdb
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.dll
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\ref\DIO.cadastroSeries.dll
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.pdb
+C:\Users\Gabriel\Documents\GitHub\DIO.cadastroSeries\obj\Debug\net6.0\DIO.cadastroSeries.genruntimeconfig.cache
