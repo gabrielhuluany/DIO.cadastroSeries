@@ -28,7 +28,17 @@ namespace DIO.cadastroSeries
             retorno += "Titulo: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
-			return retorno;
+            return retorno;
+		}
+
+        public string retornaTitulo()
+		{
+			return this.Titulo;
+		}
+
+		public int retornaId()
+		{
+			return this.Id;
 		}
     }
 }
